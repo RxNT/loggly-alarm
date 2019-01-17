@@ -25,6 +25,10 @@ Execute the script by navigating to the installation directory and running:
 
 When the alarm goes off, press *q* to stop the script.
 
+## Sound Configuration
+
+To enable sound on your machine if you do not run macOS, replace line 21 in **alarm.sh** with the sound command corresponding with your machine.
+
 ## Automation With Cron
 
 This script is able to be automated with Cron. To do this, refer to **crontab** usage.
