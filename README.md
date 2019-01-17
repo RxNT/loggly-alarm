@@ -23,6 +23,8 @@ Execute the script by navigating to the installation directory and running:
 ./alarm.sh
 ```
 
+When the alarm goes off, press *q* to stop the script.
+
 ## Automation With Cron
 
 This script is able to be automated with Cron. To do this, refer to **crontab** usage.
