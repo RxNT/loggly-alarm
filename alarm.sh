@@ -1,4 +1,4 @@
-# LogglyAlarm, a bash script to alert users of Loggly error logs.
+#LogglyAlarm, a bash script to alert users of Loggly error logs.
 #Copyright (C) 2019 RxNT
 
 #This program is free software: you can redistribute it and/or modify
