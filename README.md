@@ -5,7 +5,7 @@ LogglyAlarm is a Bash script for notifying users of Loggly errors through text o
 ## Installation
 
 ```bash
-git clone https://github.com/wromansky/LogglyAlarm.git
+git clone https://github.com/RxNT/loggly-alarm.git
 ```
 
 ## Usage
@@ -24,6 +24,10 @@ Execute the script by navigating to the installation directory and running:
 ```
 
 When the alarm goes off, press *q* to stop the script.
+
+## Sound Configuration
+
+To enable sound on your machine if you do not run macOS, replace line 21 in **alarm.sh** with the sound command corresponding with your machine.
 
 ## Automation With Cron
 
