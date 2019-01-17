@@ -24,3 +24,5 @@ Execute the script by navigating to the installation directory and running:
 ```
 
 ## Automation With Cron
+
+This script is able to be automated with Cron. To do this, refer to **crontab** usage.
