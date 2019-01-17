@@ -18,6 +18,7 @@ if [ $vez -eq $limit ]; then
 			osascript -e beep
 			echo "MACALERT"
 		else
+			# Sound for another machine
 			echo "ALERT"
 		fi
 
