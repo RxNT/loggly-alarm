@@ -5,7 +5,7 @@ LogglyAlarm is a Bash script for notifying users of Loggly errors through text o
 ## Installation
 
 ```bash
-git clone https://github.com/wromansky/LogglyAlarm.git
+git clone https://github.com/RxNT/loggly-alarm.git
 ```
 
 ## Usage
