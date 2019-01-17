@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # LogglyAlarm
 
 LogglyAlarm is a Bash script for notifying users of Loggly errors through text or sound based alarms.
@@ -25,6 +24,3 @@ Execute the script by navigating to the installation directory and running:
 ```
 
 ## Automation With Cron
-=======
-
->>>>>>> e7154dc0ed7281746614a99c0df493eac1dbbfa9
