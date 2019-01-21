@@ -31,4 +31,4 @@ To enable sound on your machine if you do not run macOS, replace line 21 in **al
 
 ## Automation With Cron
 
-This script is able to be automated with Cron. To do this, refer to [crontab](https://help.ubuntu.com/community/CronHowTo) usage.
+This script is able to be automated with Cron. To do this, refer to [crontab](https://help.ubuntu.com/community/CronHowto) usage.
